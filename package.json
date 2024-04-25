@@ -1,0 +1,12 @@
+{
+  "name": "01-ex-html-website",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
